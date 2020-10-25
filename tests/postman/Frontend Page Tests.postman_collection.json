@@ -14,7 +14,7 @@
 						"id": "666dac34-636d-46eb-a7d4-b56ceb11c322",
 						"exec": [
 							"pm.test(\"Root Index Response Test\", function () {\r",
-							"    pm.expect(pm.response.text()).to.equals('hi there, this should fail')\r",
+							"    pm.expect(pm.response.text()).to.equals('welcome to the root of my website')\r",
 							"});"
 						],
 						"type": "text/javascript"

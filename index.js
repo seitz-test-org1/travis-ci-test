@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
 
-app.get('/', (req, res) => res.send('hi there'));
+app.get('/', (req, res) => res.send('bruuuuuuh u got haaaacccckkeeed'));
 
 let port = 8080;
 if (process.env.PORT) {

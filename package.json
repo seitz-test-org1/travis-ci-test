@@ -1,0 +1,24 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seitz-test-org1/travis-ci-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seitz-test-org1/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/seitz-test-org1/travis-ci-test#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1"
+  }
+}

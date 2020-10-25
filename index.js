@@ -7,6 +7,6 @@ let port = 8080;
 if (process.env.PORT) {
     port = process.env.PORT;
 }
-app.listen(port);
+exports.server = app.listen(port);
 
 // bruh

@@ -3,7 +3,7 @@ Setting up Travis CI and continuous deployment
 
 1. Set up your project. duh
 2. Sign up and approve Travis CI
-3. Add .travis.yml file
+3. Add .travis.yml file (more info [here](https://docs.travis-ci.com/user/languages/javascript-with-nodejs/))
 ```
 
 ```
